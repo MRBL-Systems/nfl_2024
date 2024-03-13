@@ -2,7 +2,7 @@
 
 X Marks The Spot: Assessing NFL Offenses with the Formation Performance Score (FPS)
 
-MRBL Systems
+Jarrod Marable and MRBL Systems
 
 Overview:
 
